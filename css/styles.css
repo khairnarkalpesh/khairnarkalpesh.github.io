@@ -66,9 +66,8 @@ div .liststyle{
 @media only screen and (max-width: 767px){
   .active-dark .slide {
     background-color: #101010;
-    /* background-image: url(/assets/images/bg/bg-image-28.jpg) !important; */
-    background-image: url(/assets/images/kalpesh.jpeg) !important;
-    filter: brightness(50%);
+    background-image: url(/assets/images/Kalpeshsmall2.png) !important;
+    /* filter: brightness(70%); */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
