@@ -5,6 +5,10 @@
     background-size: cover;
     position: relative; 
   } */
+  @import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+  /* *{
+    font-family: 'Comfortaa', cursive;
+  } */
 
   .slide{
     width: 100%;
